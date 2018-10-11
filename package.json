@@ -9,7 +9,9 @@
   "author": "Medhir Bhargava",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^4.2.9"
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "mongoose": "^4.13.17"
   },
   "devDependencies": {
     "should": "^7.1.1"
